@@ -1,0 +1,1 @@
+This project is a replica of a template found on the WordPress platform that I developed using HTML, CSS, and Bootstrap technologies. The design was created by an Automattic user, and I was responsible for bringing it to the web.
